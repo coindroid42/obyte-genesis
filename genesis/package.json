@@ -18,7 +18,7 @@
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "ocore": "git+https://github.com/byteball/ocore.git",
-    "headless-obyte": "git+https://github.com/byteball/headless-obyte.git"
+    "ocore": "git+https://github.com/mineralcoinmarket/ocore.git",
+    "headless-obyte": "git+https://github.com/mineralcoinmarket/headless-obyte.git"
   }
 }
