@@ -4,9 +4,9 @@
 echo "INFO: cloning repositories..."
 cd src
 rm -rf *
-git clone https://github.com/byteball/obyte-explorer.git
-git clone https://github.com/byteball/obyte-hub.git
-git clone https://github.com/byteball/obyte-witness.git
+git clone https://github.com/mineralcoinmarket/obyte-explorer.git
+git clone https://github.com/mineralcoinmarket/obyte-hub.git
+git clone https://github.com/mineralcoinmarket/obyte-witness.git
 
 cd obyte-explorer; npm install
 cd ../obyte-hub; npm install
